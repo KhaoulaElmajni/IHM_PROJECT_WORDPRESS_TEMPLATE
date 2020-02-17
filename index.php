@@ -1,8 +1,9 @@
 <?php  get_header();  ?>
-	<main>
-	<h1> 
+    <h1> 
          <?php  bloginfo('name'); ?>  
 	</h1>
+	<main id="accueil">
+	
     <?php    while (have_posts()) : the_post(); ?>
     	
     	<article>
