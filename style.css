@@ -1,68 +1,9 @@
-
 /*
-theme name :Mon Super Théme;
-author :khaoula & imane;
-Description : Le super theme de khaoula & imane ;
-
-*/
-
-body{
-	font-family: 'arial' , sans-serif ;
-	color: #333;
-	margin: 0;
-}
-
-main{
-	width: 1000px;
-	margin-left: auto;
-	margin-right: auto;
-
-}
-
-main#accueil{
-	display: flex;
-	justify-content: space-between;
-	flex-wrap: wrap;
-}
-
-footer{
-	margin-top: 20px;
-	background-color: #eee;
-	padding: 20px;
-
-}
-
-div[class^="menu-"]{
-	background-color: #eee;
-	padding: 20px;
-}
-
-.menu , footer p , body > h1{
-	padding: 0;
-	width: 1000px;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.menu .menu-item{
-	list-style-type: none;
-	display: inline-block;
-	margin-right: 20px;
-
-}
-
-.menu .menu-item a , main article a{
-	text-decoration: none;
-	color: #333;
-
-}
-.menu .menu-item a:hover , main article a:hover {
-	text-decoration:underline;
-	
-}
-
-article{
-  width: 300px;
-  margin-bottom: 20px;
-
-}
+Theme Name: estsb
+Aurhor: Khaoula
+Author URI: https://khaoulaelmajni.blogspot.com/
+Description: théme modéle d'un site web d'une école supérieure de technologie de sidi bennour pour intégré les
+ fonctionalitées de wordpress
+ Version :1.0
+ Text Domain: estsb
+ */
