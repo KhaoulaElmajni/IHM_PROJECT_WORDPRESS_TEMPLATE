@@ -26,8 +26,8 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       <!-- Profile -->
       <div class="w3-card w3-round w3-white">
         <div class="w3-container">
-         <h4 class="w3-center">notre Profile</h4>
-         <p class="w3-center"><img src="<?php bloginfo('template_url'); ?>/src/logo.png" class="w3-circle" style="height:106px;width:106px" alt="ESTSB"></p>
+<h4 class="w3-center">Notre Profile</h4>
+                <p class="w3-center"><img src="<?php bloginfo('template_url'); ?>/src/logo.png" class="w3-circle" style="height:106px;width:106px" alt="ESTSB"></p>
          <hr>
          <p><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-text-theme"></i> école supérieure de technologie</p>
          <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i>Sidi Bennour</p>
