@@ -44,8 +44,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
         <div class="w3-white">
           <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-circle-o-notch fa-fw w3-margin-right"></i>A propos</button>
           <div id="Demo1" class="w3-hide w3-container">
-            <p>Ecole Supérieure de Technologie Sidi Bennour : ( EST Sidi Bennour ou ESTS Sidi Bennour ), est un établissement public d’enseignement supérieur à finalité de formation des Techniciens Supérieurs. Elle a été créée en Août 2016 par le Ministère de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique du Royaume du Maroc.</p>
-          </div>
+         < p > Ecole Supérieure de Technologie Sidi Bennour: (EST Sidi Bennour ou ESTSB Sidi Bennour), est un établissement public d'enseignement supérieur à finalité de formation des Techniciens Supérieurs. Elle a été créée en août 2016 par le Ministère de l'Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique du Royaume du Maroc. </ p >          </div>
   
           <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-calendar-check-o fa-fw w3-margin-right"></i>notre programme</button>
           <div id="Demo2" class="w3-hide w3-container">
