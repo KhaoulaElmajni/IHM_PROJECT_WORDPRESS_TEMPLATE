@@ -325,6 +325,23 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
 </div>
 <br>
 
+  
+   <div class="clearfix"></div>    </div><!-- /.wrap -->
+            <section class="cta">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="cta-content">
+                        Des milliers d'étudiant nous font confiance <br /> 
+                        <span>pour bien préparer leurs diplomes universitaires DUT</span>
+                        
+                        <a href="http://www.estsb.ucd.ac.ma/">A Votre tour</a>
+                    </div> 
+                </div>
+            </div>
+        </div>
+    </section><!--
+End Section Call to action-->
 <!-- Footer -->
 <?php get_footer(); ?>
  
