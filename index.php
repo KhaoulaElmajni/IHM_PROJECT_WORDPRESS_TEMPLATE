@@ -26,10 +26,10 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       <!-- Profile -->
       <div class="w3-card w3-round w3-white">
         <div class="w3-container">
-         <h4 class="w3-center">notre Profile</h4>
+         < h4  class = " w3-center " > Notre Profil </ h4 >
          <p class="w3-center"><img src="<?php bloginfo('template_url'); ?>/src/logo.png" class="w3-circle" style="height:106px;width:106px" alt="ESTSB"></p>
          <hr>
-         <p><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-text-theme"></i> école supérieure de technologie</p>
+         < p > < i  class = " fa fa-graduation-cap fa-fw w3-margin-right w3-text-theme " > </ i > Ecole supérieure de technologie </ p >
          <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i>Sidi Bennour</p>
          <p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i>Date de création 2017</p>
          <p><i class="fa fa-university fa-fw w3-margin-right w3-text-theme"></i>Université Chouaib Doukkali</p>
@@ -73,8 +73,7 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
         <div class="w3-container">
           <p>Activités</p>
           <p>
-            <span class="w3-tag w3-small w3-theme-d5">Des Forums</span>
-            <span class="w3-tag w3-small w3-theme-d4">Compétitions</span>
+            <span class="w3-tag w3-small w3-theme-d5"> Forums</span>
             <span class="w3-tag w3-small w3-theme-d3">Evénements</span>
             <span class="w3-tag w3-small w3-theme-d2">Jeux</span>
             <span class="w3-tag w3-small w3-theme-d1">Sport</span>
@@ -95,8 +94,7 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
         </span>
         <h4><strong>Bonjour cher(e) visiteur(e) !</strong></h4>
         <p>Bienvenue dans notre plateforme. 
-        <br>le cadre administratif et le corps pédagogique de <b  style="background-color:powderblue;">l'école sipérieure de technologie de sidi bennour</b> vous souhaite une trés bonne visite.</p>
-      </div>
+<br>Le cadre administratif et le corps pédagogique de <b  style="background-color:powderblue;">l'école supérieure de technologie de sidi bennour</b> vous souhaite une trés bonne visite.</p>      </div>
     
     <!-- End Left Column -->
     </div>
