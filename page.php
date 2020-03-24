@@ -198,8 +198,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
          <p>   </p>
           <img src="<?php bloginfo('template_url'); ?>/src/ete.png" class="w3-circle" alt="Vaccances" style="height:106px;width:106px" alt="ESTSB">
           <p><strong>Vaccances d'été</strong></p>
-          <p> Du samedi 4 Juiellet</p>
-         
+<p> Du samedi 4 Juillet </p>         
         </div>
       </div>
       <br>
