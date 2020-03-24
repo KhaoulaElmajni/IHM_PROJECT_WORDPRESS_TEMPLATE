@@ -50,6 +50,14 @@ users to build dynamic websites and blog. WordPress is the most popular blogging
 ![](https://i.imgur.com/0TI5iQ4.png)
 > The components of the sidebar[color=#fd837b]
 ---
+
+![](https://i.imgur.com/JAaomWl.png)
+> The components of the sidebar[color=#fd837b]
+---
+
+![](https://i.imgur.com/YMlEKDw.png)
+> The components of the sidebar[color=#fd837b]
+---
 ![](https://i.imgur.com/AJyn7x6.jpg)
 > a dropdown list of the branches that exist in ESTSB [color=#fd837b]
 ---
