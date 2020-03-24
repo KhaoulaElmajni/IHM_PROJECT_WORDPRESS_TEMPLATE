@@ -58,11 +58,15 @@ users to build dynamic websites and blog. WordPress is the most popular blogging
 ![](https://i.imgur.com/YMlEKDw.png)
 > The components of the sidebar[color=#fd837b]
 ---
+
+![](https://i.imgur.com/DPHsaqF.png)
+> The static footer of the website which includes the accounts of ESTSB (Facebook and instagram and officiel site).[color=#fd837b]
+---
 ![](https://i.imgur.com/AJyn7x6.jpg)
 > a dropdown list of the branches that exist in ESTSB [color=#fd837b]
 ---
 
-* <strong style="color: dark ; opacity: 0.80">:pray: Finally we want say thank you to the one and only,to our professor Mr BADDI YOUSSEF *Doctor Assistant in UCD* for his supporting  and encouraging to us, also for giving us this opportunity to improve our skills and to know a new technologies as those giant ones that we worked on.
+* <strong style="color: dark ; opacity: 0.80">:pray: Finally we want say thank you to the one and only, our professor Mr BADDI YOUSSEF *Doctor Assistant in UCD* for his supporting  and encouraging to us, also for giving us this opportunity to improve our skills and to know new technologies as those giant ones that we worked on.
 
 *see also about* Mr [BADDI](https://ma.linkedin.com/in/youssefbaddi/fr)
 </strong>
