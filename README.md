@@ -115,7 +115,7 @@ Click on the Install WordPress to finish everything we started.
 > The components of the sidebar[color=#fd837b]
 ---
 
-![](https://i.imgur.com/DPHsaqF.png)
+![](https://i.imgur.com/9hm4J5B.png)
 > The static footer of the website which includes the accounts of ESTSB (Facebook and instagram and officiel site).[color=#fd837b]
 ---
 ![](https://i.imgur.com/AJyn7x6.jpg)
