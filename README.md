@@ -118,7 +118,7 @@ Click on the Install WordPress to finish everything we started.
 ![](https://i.imgur.com/9hm4J5B.png)
 > The static footer of the website which includes the accounts of ESTSB (Facebook and instagram and officiel site).[color=#fd837b]
 ---
-![](https://i.imgur.com/AJyn7x6.jpg)
+![](https://i.imgur.com/mPt5JeX.png)
 > a dropdown list of the branches that exist in ESTSB [color=#fd837b]
 ---
 ![](https://i.imgur.com/gIMGyaI.png)
