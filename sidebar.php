@@ -7,10 +7,10 @@
       <!-- Profile -->
       <div class="w3-card w3-round w3-white">
         <div class="w3-container">
-         <h4 class="w3-center">notre Profile</h4>
+         <h4 class="w3-center">Notre Profile</h4>
          <p class="w3-center"><img src="<?php bloginfo('template_url'); ?>/src/logo.png" class="w3-circle" style="height:106px;width:106px" alt="ESTSB"></p>
          <hr>
-         <p><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-text-theme"></i> école supérieure de technologie</p>
+         <p><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-text-theme"></i> Ecole supérieure de technologie</p>
          <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i>Sidi Bennour</p>
          <p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i>Date de création 2017</p>
          <p><i class="fa fa-university fa-fw w3-margin-right w3-text-theme"></i>Université Chouaib Doukkali</p>
@@ -25,13 +25,21 @@
         <div class="w3-white">
           <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-circle-o-notch fa-fw w3-margin-right"></i>A propos</button>
           <div id="Demo1" class="w3-hide w3-container">
-            <p>Ecole Supérieure de Technologie Sidi Bennour : ( EST Sidi Bennour ou ESTS Sidi Bennour ), est un établissement public d’enseignement supérieur à finalité de formation des Techniciens Supérieurs. Elle a été créée en Août 2016 par le Ministère de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique du Royaume du Maroc.</p>
+            <p>Ecole Supérieure de Technologie Sidi Bennour : ( EST Sidi Bennour ou ESTS Sidi Bennour ), est un établissement public d’enseignement supérieure à finalité de formation des Techniciens specialises. Elle a été créée en Août 2016 par le Ministère de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique du Royaume du Maroc.</p>
           </div>
   
-          <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-calendar-check-o fa-fw w3-margin-right"></i>notre programme</button>
+          <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-calendar-check-o fa-fw w3-margin-right"></i>Orientation appliquée de l’enseignement</button>
           <div id="Demo2" class="w3-hide w3-container">
-            <p>programmes d’enseignement comportent des Cours magistraux, des Travaux Pratiques (TP), des Travaux Dirigés (TD) et des Dossiers et Travaux de Réalisation, des Projets de Fin d’Etude, des Stages d’Initiation et des Stages Techniques dans les entreprises, les organismes socio-professionnels, les collectivités locales et les administrations publiques.</p>
+            <p>La formation appliquée à l’ESTSB est largement tournée vers les Technologies d’Information et de Communication, les Techniques de Gestion, les langues vivantes, les Systèmes et Réseaux Informatiques, les conceptions et les réalisations informatiques, c’est pourquoi ses programmes ont toujours le souci de répondre aux exigences et aux attentes de l’environnement socio-économique de l’Ecole et font appel à des méthodes pédagogiques actives et évoluées.
+Les programmes d’enseignement comportent des Cours magistraux, des Travaux Pratiques (TP), des Travaux Dirigés (TD) et des Dossiers et Travaux de Réalisation, des Projets de Fin d’Etude, des Stages d’Initiation et des Stages de Stages Techniques dans les entreprises, les organismes socio-professionnels, les collectivités locales et les administrations publiques..</p>
           </div>
+			
+			 <button onclick="myFunction('Demo4')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-calendar-check-o fa-fw w3-margin-right"></i>Durée des études</button>
+          <div id="Demo4" class="w3-hide w3-container">
+            <p>La durée des études est de deux années universitaires avec 16 modules d’enseignement. La première année s’étale sur 32 semaines suivies de quatre semaines de stage d’initiation après la fin de S2 et avant le démarrage de S3 dans l’entreprise en Juillet ou Aout à raison de 24 jours avec un rapport et une soutenance. La deuxième année est de 36 semaines dont 8 semaines de stage technique et dispensé à raison de 48 jours pour 36 heures par semaine en moyenne avec un rapport et une soutenance.</p>
+          </div>
+				
+			
           <button onclick="myFunction('Demo3')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-users fa-fw w3-margin-right"></i>Nos Filiéres</button>
           <div id="Demo3" class="w3-hide w3-container">
          <div class="w3-row-padding">
@@ -55,14 +63,14 @@
           <p>Activités</p>
           <p>
             <span class="w3-tag w3-small w3-theme-d5">Des Forums</span>
-            <span class="w3-tag w3-small w3-theme-d4">Compétitions</span>
-            <span class="w3-tag w3-small w3-theme-d3">Evénements</span>
-            <span class="w3-tag w3-small w3-theme-d2">Jeux</span>
-            <span class="w3-tag w3-small w3-theme-d1">Sport</span>
-            <span class="w3-tag w3-small w3-theme">Clubes</span>
-            <span class="w3-tag w3-small w3-theme-l1">Theatre</span>
-            <span class="w3-tag w3-small w3-theme-l2">Championats</span>
-            <span class="w3-tag w3-small w3-theme-l4">Art</span>
+            <span class="w3-tag w3-small w3-theme-d4">Des Compétitions</span>
+            <span class="w3-tag w3-small w3-theme-d3">Des Evénements</span>
+            <span class="w3-tag w3-small w3-theme-d2">Des Jeux</span>
+            <span class="w3-tag w3-small w3-theme-d1">Du Sport</span>
+            <span class="w3-tag w3-small w3-theme">Des Clubes</span>
+            <span class="w3-tag w3-small w3-theme-l1">Du Theatre</span>
+            <span class="w3-tag w3-small w3-theme-l2">Des Championats</span>
+            <span class="w3-tag w3-small w3-theme-l4">De l'Art</span>
             
           </p>
         </div>
@@ -70,13 +78,13 @@
       <br>
       
       <!-- Alert Box -->
-      <div class="w3-container w3-display-container w3-round w3-theme-l4 w3-border w3-theme-border w3-margin-bottom w3-hide-small">
+      <div class="w3-container w3-display-container w3-round w3-theme-l4 w3-border w3-theme-border w3-margin-bottom w3-hide-small;style=background-color:#CEF6D8">
         <span onclick="this.parentElement.style.display='none'" class="w3-button w3-theme-l3 w3-display-topright">
           <i class="fa fa-remove"></i>
         </span>
         <h4><strong>Bonjour cher(e) visiteur(e) !</strong></h4>
         <p>Bienvenue dans notre plateforme. 
-        <br>le cadre administratif et le corps pédagogique de <b  style="background-color:powderblue;">l'école sipérieure de technologie de sidi bennour</b> vous souhaite une trés bonne visite.</p>
+        <br>le cadre administratif et le corps pédagogique de <b  style="background-color:#CEF6D8;">l'école supérieure de technologie de sidi bennour</b> vous souhaite une trés bonne visite.</p>
       </div>
     
     <!-- End Left Column -->
@@ -243,7 +251,7 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
          <p>   </p>
           <img src="<?php bloginfo('template_url'); ?>/src/ete.png" class="w3-circle" alt="Vaccances" style="height:106px;width:106px" alt="ESTSB">
           <p><strong>Vaccances d'été</strong></p>
-          <p> Du samedi 4 Juiellet</p>
+          <p> Du samedi 4 Juillet</p>
          
         </div>
       </div>
@@ -294,6 +302,21 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
         </div>
       </div>
       <br>
+		
+		 <div class="w3-card w3-round w3-white w3-center">
+        <div class="w3-container">
+          <p>Evénement marqués</p>
+          <img src="<?php bloginfo('template_url'); ?>/src/journéedelafemme.png" class="w3-circle" alt="Journée" style="height:106px;width:106px" alt="ESTSB">
+          <br>
+          <span><b>La journée de la femme.</b>
+          <br>
+          <p>Le 08 mars 2019 </p>
+          
+          </span>
+         
+        </div>
+      </div>
+      <br>
      
       
       
@@ -303,7 +326,22 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
     
   <!-- End Grid -->
   </div>
+	
   
-<!-- End Page Container -->
+
 </div>
 <br>
+	<div class="col-md-12">
+                    <div class="cta-content">
+						<h4 style=" font-size: 45px; letter-spacing: -1px; line-height: 1; text-align: center;color:#F2F2F2 ;background:#0040FF"><center> 
+							<br>
+                        Des milliers d'étudiant nous font confiance <br> 
+                        <span>pour bien préparer leurs Diplome universitaire DUT</span>
+                        <br>
+							<br>
+                        <a href="http://www.estsb.ucd.ac.ma/">A votre tour</a>
+							<p>...
+		</p>
+                    </center></h4> </div>
+                </div>
+	<!-- End Page Container -->
