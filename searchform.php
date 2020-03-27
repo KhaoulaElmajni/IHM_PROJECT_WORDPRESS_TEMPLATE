@@ -7,7 +7,6 @@
  * @since 1.0
  * @version 1.0
  */
-
 ?>
 <?php get_header();?>
 <?php $unique_id = esc_attr( unique( 'search-form-' ) ); ?>

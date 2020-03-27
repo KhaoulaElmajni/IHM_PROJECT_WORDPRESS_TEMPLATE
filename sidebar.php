@@ -335,7 +335,7 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
                     <div class="cta-content">
 						<h4 style=" font-size: 45px; letter-spacing: -1px; line-height: 1; text-align: center;color:#F2F2F2 ;background:#0040FF"><center> 
 							<br>
-                        Des milliers d'étudiant nous font confiance <br> 
+                        Des milliers d'étudiant nous font confiance, soyez parmi eu,et n'hésitez pas d'etre parmi la grande famille ESTSB <br> 
                         <span>pour bien préparer leurs Diplome universitaire DUT</span>
                         <br>
 							<br>
