@@ -3,21 +3,15 @@
 * <strong style="color:dark">this project is a School WebSite made with WORDPRESS.
  ## <span style="color:green">2.WORDPRESS</span>
  #### <span style="color:#0036ad"> 1.PRESENTATION: :point_down:</span>
- 
+
  * <strong style="color:dark">WordPress is an open source Content Management System (CMS), which allows the
 users to build dynamic websites and blog. WordPress is the most popular blogging system on the web and allows updating, customizing and managing the website from its back-end CMS and components.
  *see also* [WORDPRESS](https://www.tutorialspoint.com/wordpress/wordpress_tutorial.pdf)
-
-
  ## <span style="color:green "> 4.How to install WordPress on Windows 10 (localhost).</span>
- 
  * <strong style="color:dark">WordPress CMS can work on our computer. One of the main reasons for this is that in this way you can test WordPress before placing it on the server, or you can do the programming (creating themes, plugins…) and creation in WordPress without investment (FREE) in hosting, domain and accompanying services.
 WordPress installed in this way will be fully functional and behave like any other site.
-
 #### <span style="color:#0036ad"> Step 1: Download WordPress package for Windows – WordPress for Windows: :point_down:</span>
-
 * <strong style="color:dark">Go to this page:[ click me]( https://go.microsoft.com/fwlink/?LinkID=286266)
-
 * <strong style="color:dark">Click on the button Install WordPress. Save the package that will be offered.
 ![](https://i.imgur.com/CHZrLYb.png)
 
