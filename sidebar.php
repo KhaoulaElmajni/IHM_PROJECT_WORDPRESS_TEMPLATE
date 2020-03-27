@@ -99,8 +99,9 @@ Les programmes d’enseignement comportent des Cours magistraux, des Travaux Pra
         <div class="w3-col m12">
           <div class="w3-card w3-round w3-white">
             <div class="w3-container w3-padding">
-              <h2 class="w3-opacity" style="border: 2px solid DodgerBlue; color: blue"><center>Ecole Superieure De Technologie de Sidi Bennour</center></h2>
-                  <img   src="<?php bloginfo('template_url'); ?>/src/estsb.png" style="height:400px;width:640px" alt="ESTSB">
+              <h2 class="w3-opacity" style=" color: black; background:#00FFFF"><center>Ecole Superieure De Technologie de Sidi Bennour</center></h2>
+				<br>
+			<center>	<img   src="<?php bloginfo('template_url'); ?>/src/estsb.png" style="height:400px;width:640px" alt="ESTSB"></center>
                   <br>
             </div>
           </div>
@@ -112,8 +113,9 @@ Les programmes d’enseignement comportent des Cours magistraux, des Travaux Pra
         <div class="w3-col m12">
           <div class="w3-card w3-round w3-white">
             <div class="w3-container w3-padding">
-              <h2 class="w3-opacity" style="border: 2px solid DodgerBlue  ; color: blue"><center>La famille ESTSB: </center></h2>
-              <img   src="<?php bloginfo('template_url'); ?>/src/famille.png" style="height:400px;width:640px" alt="ESTSB">
+              <h2 class="w3-opacity" style=" color: black; background:#80FF00"><center>La famille ESTSB: </center></h2>
+				<br>
+            <center>  <img   src="<?php bloginfo('template_url'); ?>/src/famille.png" style="height:400px;width:640px" alt="ESTSB"></center>
             </div>
           </div>
         </div>
@@ -124,7 +126,7 @@ Les programmes d’enseignement comportent des Cours magistraux, des Travaux Pra
         <div class="w3-col m12">
           <div class="w3-card w3-round w3-white">
             <div class="w3-container w3-padding">
-              <h2 class="w3-opacity" style="border: 2px solid DodgerBlue; color: blue"><center>&loz; Présentation</center> </h2>
+              <h2 class="w3-opacity" style=" color: black; background:#00FFFF"><center>&loz; Présentation</center> </h2>
               <p class="w3-border w3-padding">L’Ecole Supérieure de Technologie Sidi Bennour (ESTSB) est un établissement public d’enseignement supérieur à finalité de formation des Techniciens Supérieurs. Elle a été créée en Août 2016 par le Ministère de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique du Royaume du Maroc. L’ESTSB est une composante de l’Université Chouaib Doukkali d’El Jadida. Sa vocation est de former des Techniciens Supérieurs polyvalents, hautement qualifiés et immédiatement opérationnels après leur sortie de l’Ecole en tant que collaborateurs d’ingénieurs et de managers. Sont admis à l’ESTSB, les bacheliers de l’enseignement secondaire technique, scientifique et tertiaire. L’admission à l’Ecole (au de Diplôme Universitaire de Technologie « DUT ») se fait par voie de sélection par ordre de mérite après une présélection sur la base des notes obtenues au baccalauréat. Les candidats doivent être âgés de 22 ans au plus au 31 Décembre de l’année du concours et doivent déposer leurs dossiers de pré-inscription avant le 30 Juin de chaque année universitaire. </p>
             </div>
           </div>
@@ -134,7 +136,7 @@ Les programmes d’enseignement comportent des Cours magistraux, des Travaux Pra
       <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
     
      
-        <h4 style="border: 2px solid DodgerBlue; color: blue"> <center> &loz; Orientation appliquée de l’enseignement</center></h4>
+        <h2  class="w3-opacity" style=" color: black; background:#80FF00"> <center> &loz; Orientation appliquée de l’enseignement</center></h2>
         <hr class="w3-clear">
         <p>
 
@@ -151,9 +153,9 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
       
       <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
    
-        <h4 style="border: 2px solid DodgerBlue; color: blue"><center>  &loz; Activités</center></h4>
+        <h2 class="w3-opacity" style=" color: black; background:#00FFFF"><center>  &loz; Activités</center></h2>
         <hr class="w3-clear">
-        <p>l'ESTSB est trés active coté activités.
+        <p>L'ESTSB est trés active coté activités.
         <br>
         Parmi les activités que notre école organise ou participe, nous vous présentons: </p>
         <br>
@@ -197,7 +199,50 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
       </div>  
 
       
-    </div>
+   
+	
+	 <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
+    
+     
+        <h2  class="w3-opacity" style=" color: black; background:#80FF00"> <center> &loz; Actualités</center></h2>
+        <hr class="w3-clear">
+       
+
+<h1 class="titre">Coronavirus. Suspension des cours au Maroc à partir du lundi 16 mars </h1>
+	
+<div class="chapo-options">
+		                        <div class="chapo">
+									<p>Dans un communiqué diffusé en fin journée ce vendredi 13 mars 2020, le ministère de l'Education nationale annonce la suspension de tous les cours, des jardins d'enfants jusqu'à l'enseignement supérieur à compter du lundi 16 mars 2020, du public, du privé et de la mission.</p>								</div>
+						</div>
+<p>
+	
+		 
+Les cours sont arrêtés jusqu'à nouvel ordre, dans le cadre de la lutte contre la propagation éventuelle du virus, annonce un communiqué du ministère.
+
+Cette décision concerne tous les établissements, maternelle, jardins d'enfants, préscolaire, primaire, secondaire, collégial, supérieur, privé ou public, général ou de formation professionnelle.
+
+Il ne s'agit pas de vacances exceptionnelles, ajoute-t-on de même source. Des cours à distance seront mis en place pour permettre aux élèves de suivre de chez eux les cours prévus. Le ministère insiste sur la continuité pédagogique. Des packs pédagogiques devront être créés spécialement par les cadres et le corps enseignant.
+<br>
+Même les centres de formation ne relevant pas directement de l'Education nationale ainsi que les centres de formation de langues et tout centre d'apprentissage sont concernés, ainsi que les missions étrangères.
+<br>
+Voici la traduction intégrale du communiqué du ministère:
+</p>
+		 <h4>
+			 "Les cours seront suspendus à partir du lundi 16 mars, jusqu'à nouvel ordre, dans l’ensemble des crèches, des établissements d’enseignement et de formation professionnelle et des universités, qu'ils soient privés ou publics, a annoncé vendredi le ministère de l’Éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique.</h4>
+  
+<h4> "Cette décision s'inscrivant dans le cadre des mesures de prévention visant à endiguer la propagation du Coronavirus "Covid-19", est applicable à l'ensemble des établissements d'enseignement supérieur publics et privés, les établissements de formation des cadres ne faisant pas partie d'universités, les écoles et les centres de langues relevant des Missions étrangères ainsi que les centres de langues et ceux de soutien scolaire privés, a précisé le ministère dans un communiqué.</h4>
+	
+<h4>
+	
+		
+"La décision de suspension des cours représente une mesure préventive visant à protéger la santé des élèves, des stagiaires, des étudiants, des cadres administratifs et pédagogiques exerçant dans les établissements d'enseignement et tous les citoyens, l'objectif ultime étant de lutter contre la propagation du virus Corona, déclaré comme une "pandémie" d’envergure mondiale par l'OMS.
+ </h4>
+	  
+		 <h4>
+"Le ministère assure qu'il veillera à informer la famille de l'éducation, de la formation et de la recherche scientifique ainsi que les apprenants, leurs parents et les citoyens, de tous les développements qui surviennent dans cette conjoncture exceptionnelle via tous les canaux disponibles. "</h4>
+    
+      </div>
+	 </div>
     
     <!-- Right Column -->
     <div class="w3-col m2">
@@ -304,8 +349,8 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
       <br>
 		
 		 <div class="w3-card w3-round w3-white w3-center">
-        <div class="w3-container">
-          <p>Evénement marqués</p>
+          <div class="w3-container">
+           <p>Evénement marqués</p>
           <img src="<?php bloginfo('template_url'); ?>/src/journéedelafemme.png" class="w3-circle" alt="Journée" style="height:106px;width:106px" alt="ESTSB">
           <br>
           <span><b>La journée de la femme.</b>
@@ -336,7 +381,7 @@ La durée des études est de deux années universitaires avec 16 modules d’ens
 						<h4 style=" font-size: 45px; letter-spacing: -1px; line-height: 1; text-align: center;color:#F2F2F2 ;background:#0040FF"><center> 
 							<br>
                         Des milliers d'étudiant nous font confiance, soyez parmi eu,et n'hésitez pas d'etre parmi la grande famille ESTSB <br> 
-                        <span>pour bien préparer leurs Diplome universitaire DUT</span>
+                        <span>pour bien préparer votre Diplome universitaire DUT</span>
                         <br>
 							<br>
                         <a href="http://www.estsb.ucd.ac.ma/">A votre tour</a>
