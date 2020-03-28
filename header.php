@@ -3,13 +3,7 @@
  <div class="w3-bar w3-theme-blue-grey w3-left-align w3-large">
   <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
   <a href="" class="w3-bar-item w3-button w3-padding-large w3-theme-d4"><i class="fa fa-home w3-margin-right"></i>Home</a>
-     <center>
-         <div class="search-container w3-bar-item w3-button">
-             <form  method="get">
-                 <input type="text" placeholder="Search.." name="search">
-                 <button type="submit" name="s"><i class="fa fa-search"></i></button>
-             </form>
-         </div></center>
+     
   <a href="http://www.estsb.ucd.ac.ma/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Nouveaux"><i class="fa fa-globe"></i></a>
   <a href="http://localhost/wordpress/directeur/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Le Profile de Directeur"><i class="fa fa-user"></i></a>
   <a href="http://localhost/wordpress/enseignants/"  class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Enseignants"><i class="fa fa-users fa-fw w3-margin-right"></i></a>
@@ -21,14 +15,14 @@
       <a href="http://localhost/wordpress/genie-agroenvironnement/" class="w3-bar-item w3-button">Génie Agroenvironnement</a>
     </div>
   </div>
+
 <center>
-<div class="search-container w3-bar-item w3-button">
-    <form  method="get">
-      <input type="text" placeholder="Search.." name="search">
-      <button type="submit" name="s"><i class="fa fa-search"></i></button>
-    </form>
-  </div></center>
-  
+         <div class="search-container w3-bar-item w3-button">
+             <form  method="get">
+                 <input type="text" placeholder="Search.." name="search">
+                 <button type="submit" name="s"><i class="fa fa-search"></i></button>
+             </form>
+         </div></center>
   <a href="http://www.estsb.ucd.ac.ma/" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white" title="Ecole Supérieure de Technologie">
     <img   src="<?php bloginfo('template_url'); ?>/src/logo.png" style="height:40px;width:40px" alt="ESTSB">
   </a>
